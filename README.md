@@ -140,4 +140,8 @@ If this number fluctuates a lot, your server might be struggling.
     Heavy Load: autocannon -c 500 -d 30 http://localhost:3000
 ```
 autocannon helps benchmark and optimize your Node.js server performance.
-Let me know if you need help analyzing results! 🚀
+
+## AWS CICD deployment process
+ - Adding soon...
+
+
