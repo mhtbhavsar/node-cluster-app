@@ -1,11 +1,11 @@
 # Node clustering example
 ## Testing clustering
 ### Visit http://localhost:3000 multiple times.
-    ```
-        Handled by worker 12346
-        Handled by worker 12347
-        Handled by worker 12348
-    ```
+```
+    Handled by worker 12346
+    Handled by worker 12347
+    Handled by worker 12348
+```
 ### Using curl to test
  - On command promt or powershell
     ```
